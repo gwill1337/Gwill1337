@@ -9,7 +9,7 @@
 ![Codewars](https://www.codewars.com/users/gwill1337/badges/micro)
 * Main languages: Python, Rust
 * Second languages: Powershell, Bash
-* Speaking languages: Russian(C2), English(B2), Hebrew(B2)
+* Speaking languages: Russian (C2), English (B2), Hebrew (B2)
 
 ### Other
 * OS: Linux, Windows
@@ -34,7 +34,7 @@
 
 ### [NetOps-Enhanced](https://github.com/gwill1337/NetOps-Enhanced)
 A NetDevOps Security Validation tool
-* **Protocols & Technologies:** CI/CD(GitHub Actions), Batfish, Ansible, Jinja2, Backups, PyTest, ruff(lint), Nornir, Telegram notifications.
+* **Protocols & Technologies:** CI/CD(GitHub Actions), Batfish, Ansible, Jinja2, Backups, PyTest, Ruff (linter), Nornir, Telegram notifications.
 
 ### [Network Logger](https://github.com/gwill1337/Net_logger)
 Logger for Network in Python.
