@@ -2,7 +2,7 @@
 
 ## Certificates:
 * High School Diploma (Bagrut) — Specialty in ICT (10 Study Units)
-* CCNA (Knowladge)
+* CCNA-level proficiency
 
 ## Hard Skills
 ### Languages
