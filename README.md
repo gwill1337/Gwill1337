@@ -9,7 +9,7 @@
 ![Codewars](https://www.codewars.com/users/gwill1337/badges/micro)
 * Main languages: Python, Rust
 * Second languages: Powershell, Bash
-* Speaking languages: Russian(C2), Engnlish(B2), Hebrew(B2)
+* Speaking languages: Russian(C2), English(B2), Hebrew(B2)
 
 ### Other
 * OS: Linux, Windows
