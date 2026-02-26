@@ -33,7 +33,7 @@
 * **Protocols & Security:** Direct Connection (TCP/LAN)/Iroh (QUIC Protocol), TLS, E2EE (Noise Protocol).
 
 ### [NetOps-Enhanced](https://github.com/gwill1337/NetOps-Enhanced)
-This NetDevOps Security Validation.
+A NetDevOps Security Validation tool
 * **Protocols & Technologies:** CI/CD(GitHub Actions), Batfish, Ansible, Jinja2, Backups, PyTest, ruff(lint), Nornir, Telegram notifications.
 
 ### [Network Logger](https://github.com/gwill1337/Net_logger)
