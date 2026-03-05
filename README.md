@@ -5,13 +5,13 @@
 * CCNA-level proficiency
 
 ## Hard Skills
-### Languages
+### Languages & Fundamentals
 ![Codewars](https://www.codewars.com/users/gwill1337/badges/micro)
 * Main languages: Python, Rust
 * Second languages: Powershell, Bash
 * Speaking languages: Russian (C2), English (B2), Hebrew (B2)
 
-### Other
+### Technologies & Tools
 * OS: Linux, Windows
 * Monitoring: Grafana, Prometheus, Loki
 * DevOps: Docker, CI/CD, Ansible
