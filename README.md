@@ -9,6 +9,7 @@
 ![Codewars](https://www.codewars.com/users/gwill1337/badges/micro)
 * Main languages: Python, Rust
 * Second languages: Powershell, Bash
+* Low-level & CS: NASM (x86-64), Data Structures & Algorithms (Search/Sort)
 * Speaking languages: Russian (C2), English (B2), Hebrew (B2)
 
 ### Technologies & Tools
