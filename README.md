@@ -23,7 +23,7 @@
 ## Projects
 
 ### [MONA - Monitor & Analytics Tool](https://github.com/gwill1337/MONA)
-* **Backend:** Fast API, Celery, ML, PostgreSQL, Kubernetes(kind), Terraform, Helm.
+* **Backend:** Fast API, Celery, Redis, ML, PostgreSQL, Kubernetes(kind), Terraform, Helm.
 * **Frontend:** Vite + Tailwind v4 + React + TypeScript.
 
 ### [Severus - Selfhosted P2P Messenger](https://github.com/gwill1337/Severus)
