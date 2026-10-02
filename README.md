@@ -1,4 +1,4 @@
-# Gwill1337 - Software & Systems Enthusiast
+# Gwill1337 - Software, Backend & Fullstack Enthusiast
 
 ## Certificates:
 * High School Diploma (Bagrut) — Specialty in ICT (10 Study Units)
