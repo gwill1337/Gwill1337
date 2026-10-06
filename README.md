@@ -1,4 +1,4 @@
-# Gwill1337 - Software, Backend & Fullstack Enthusiast
+# Gwill1337 - Backend & Fullstack Developer
 
 ## Certificates:
 * High School Diploma (Bagrut) — Specialty in ICT (10 Study Units)
@@ -7,7 +7,7 @@
 ## Hard Skills
 ### Languages & Fundamentals
 ![Codewars](https://www.codewars.com/users/gwill1337/badges/micro)
-* Main languages: Python, Rust
+* Main languages: Python, Rust, JS/TS
 * Second languages: Powershell, Bash
 * Low-level & CS: NASM (x86-64), Data Structures & Algorithms (Search/Sort/Hashtables/Trees)
 * Speaking languages: Russian (C2), English (B2), Hebrew (B2)
