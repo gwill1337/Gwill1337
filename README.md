@@ -1,4 +1,34 @@
-# Gwill1337 - Backend & Fullstack Developer
+# Hi, I'm Elisey Ar
+
+**Full-Stack Developer** · Python/FastAPI, Rust, React/TypeScript · Israel, working worldwide
+
+I build web apps and MVPs for startups and small businesses: from idea to a deployed product. My background is in networking (CCNA-level), so I care about how systems actually work under the hood.
+
+- Portfolio: [eliseyar.vercel.app](https://eliseyar.vercel.app)
+- X: [@elisey_ar](https://x.com/elisey_ar)
+
+## Projects
+
+- **[MONA](https://github.com/gwill1337/MONA)**: Self-hosted monitoring and analytics tool with machine learning. FastAPI, Celery, Redis, PostgreSQL, Kubernetes, Terraform, React + TypeScript.
+- **[Severus](https://github.com/gwill1337/Severus)**: Self-hosted P2P messenger with TLS and E2EE (Noise Protocol), Iroh/QUIC transport. Rust, Tauri 2, React + TypeScript.
+- **[PetNetflix](https://github.com/gwill1337/PetNetflix)**: Netflix-style movie app with auth (incl. Google OAuth), favorites, comments and search. FastAPI, PostgreSQL, TypeScript.
+- **[University Network](https://github.com/gwill1337/University-Network)**: Enterprise network topology with Cisco routing and switching, OSPF, EIGRP, BGP, VLAN, HSRP and ASA firewall.
+
+## Stack
+
+**Languages:** Python · Rust · TypeScript/JavaScript   
+**Backend:** FastAPI · PostgreSQL · SQLAlchemy · Redis · Celery   
+**Frontend:** React · Next.js · Tailwind CSS   
+**DevOps:** Docker · GitHub Actions · AWS · Kubernetes · Terraform    
+**Monitoring:** Grafana · Prometheus · Loki    
+**OS:** Linux · Windows
+
+## Background
+
+- High School Diploma (Bagrut), ICT specialty (10 units), CCNA-level networking
+- Languages: Russian (native), English (B2), Hebrew (B2)
+
+<!-- # Elisey Ar - Backend & Fullstack Developer
 
 ## Certificates:
 * High School Diploma (Bagrut) — Specialty in ICT (10 Study Units)
@@ -38,7 +68,7 @@
 
 ### [NetOps-Enhanced](https://github.com/gwill1337/NetOps-Enhanced)
 A NetDevOps Security Validation tool
-* **Protocols & Technologies:** CI/CD(GitHub Actions), Batfish, Ansible, Jinja2, Backups, PyTest, Ruff (linter), Nornir, Telegram notifications.
+* **Protocols & Technologies:** CI/CD(GitHub Actions), Batfish, Ansible, Jinja2, Backups, PyTest, Ruff (linter), Nornir, Telegram notifications. -->
 
 <!-- ### [Network Logger](https://github.com/gwill1337/Net_logger)
 Logger for Network in Python
