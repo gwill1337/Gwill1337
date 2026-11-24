@@ -2,14 +2,14 @@
 
 **Full-Stack Developer** · Python/FastAPI, Rust, React/TypeScript · Israel, working worldwide
 
-I build web apps and MVPs for startups and small businesses: from idea to a deployed product. My background is in networking (CCNA-level), so I care about how systems actually work under the hood.
+I build web apps and MVPs for startups and small businesses: from idea to a deployed product. My background is in networking (CCNA-level), so I care about how systems actually work.
 
 - Portfolio: [eliseyar.vercel.app](https://eliseyar.vercel.app)
 - X: [@elisey_ar](https://x.com/elisey_ar)
 
 ## Projects
 
-- **[MONA](https://github.com/gwill1337/MONA)**: Self-hosted monitoring and analytics tool with machine learning. FastAPI, Celery, Redis, PostgreSQL, Kubernetes, Terraform, React + TypeScript.
+- **[MONA](https://github.com/gwill1337/MONA)**: Self-hosted monitoring and analytics platform with machine learning. FastAPI, Celery, Redis, PostgreSQL, Kubernetes, Terraform, React + TypeScript.
 - **[Severus](https://github.com/gwill1337/Severus)**: Self-hosted P2P messenger with TLS and E2EE (Noise Protocol), Iroh/QUIC transport. Rust, Tauri 2, React + TypeScript.
 - **[PetNetflix](https://github.com/gwill1337/PetNetflix)**: Netflix-style movie app with auth (incl. Google OAuth), favorites, comments and search. FastAPI, PostgreSQL, TypeScript.
 - **[University Network](https://github.com/gwill1337/University-Network)**: Enterprise network topology with Cisco routing and switching, OSPF, EIGRP, BGP, VLAN, HSRP and ASA firewall.
